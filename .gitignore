@@ -1,0 +1,5 @@
+lr_back/node_modules
+lr_front/node_modules
+lr_front/.cache
+lr_back/.env
+lr_fornt/.env
