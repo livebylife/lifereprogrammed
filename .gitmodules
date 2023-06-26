@@ -1,0 +1,6 @@
+[submodule "lr_front"]
+	path = lr_front
+	url = ./lr_front
+[submodule "lr_back"]
+	path = lr_back
+	url = ./lr_back
